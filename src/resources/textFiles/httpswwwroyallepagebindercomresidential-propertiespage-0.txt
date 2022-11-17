@@ -1,0 +1,24 @@
+V/l Kinsman  Lasalle Ontario,79900.00,Vacant Land
+V/l Kinsman  Lasalle Ontario,79900.00,Residential
+32 Destiny Drive  Leamington Ontario,729900.00,4  3  Residential
+647 Cameron  Windsor Ontario,274900.00,3  1  Residential
+1922 Aubin  Windsor Ontario,399000.00,4  1  Residential
+1234 Belle Isle View  Windsor Ontario,429900.00,3  1  Residential
+325 Frank Avenue  Windsor Ontario,290900.00,Vacant Land
+83 Doverdoon Drive  Chatham Ontario,429000.00,2  1  Residential
+3609 Askin Avenue  Windsor Ontario,449000.00,3  2  Residential
+203 Sheldon Avenue  Chatham Ontario,299000.00,3  2  Residential
+4523 Anderson  Comber Ontario,999900.00,4  3  Residential
+1310 Gladstone  Windsor Ontario,1250.00,1  1  Residential
+2311 Cadillac Street  Windsor Ontario,2000.00,4  2  Residential
+645 Lacasse Boulevard  Tecumseh Ontario,499000.00,4  2  Residential
+19 Francis Street  Kingsville Ontario,699900.00,3  3  Residential
+11 David Crescent  Chatham Ontario,469900.00,3  2  Residential
+228 Wedgewood Lane  Tecumseh Ontario,679900.00,6  3  Residential
+4 Clyde Street  Lambton Shores Ontario,199900.00,2  Residential
+281 William Street  London Ontario,1500.00,1  1  Residential
+24 Alpine Avenue  Chatham Ontario,410000.00,4  2  Residential
+7152 Queens Line  Chatham Ontario,2200.00,2  2  Residential
+Lot 6 Mayfair Avenue  Lasalle Ontario,999900.00,2  2  Residential
+Lot 7 Mayfair Avenue  Lasalle Ontario,1199900.00,4  4  Residential
+271 Mill  Windsor Ontario,1700.00,3  1  Residential
