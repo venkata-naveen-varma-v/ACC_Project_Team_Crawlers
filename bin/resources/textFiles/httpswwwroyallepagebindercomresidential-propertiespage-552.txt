@@ -1,0 +1,24 @@
+3772 Concession 3  Amherstburg Ontario,599900.00,2  2  Residential
+84 Belleview Drive  Cottam Ontario,1190000.00,4  3  Residential
+243 Manning  Chatham Ontario,699900.00,3  2  Residential
+1531 Windsor Avenue  Windsor Ontario,399900.00,3  2  Residential
+64 Balmoral Road  Chatham Ontario,419900.00,4  2  Residential
+17 Regal Drive  Tilbury Ontario,675000.00,5  3  Residential
+299 Campus Parkway  Chatham Ontario,499999.00,3  2  Residential
+276 Merritt Avenue  Chatham Ontario,215000.00,2  1  Residential
+3985 Grand Marais Road  Windsor Ontario,1850.00,2  1  Residential
+2021 Ontario ...  Windsor Ontario,2999000.00,6  6  Residential
+2130 Moy Avenue  Windsor Ontario,717000.00,5  2  Residential
+1528 Villa Maria Boulevard  Windsor Ontario,2500.00,3  2  Residential
+2234 County Rd 31  Lakeshore Ontario,563300.00,6  2  Residential
+2095 Cousineau Road  Lasalle Ontario,3200.00,6  3  Residential
+1156 Joshua Court  Lakeshore Ontario,749900.00,4  3  Residential
+2416 Fox Run  Leamington Ontario,224900.00,3  1  Residential
+23 Duke Street  Chatham Ontario,239900.00,2  1  Residential
+1089 Aspen Ridge Crescent  Lakeshore Ontario,3200.00,5  3  Residential
+246 Talbot Street  Blenheim Ontario,499900.00,4  1  Residential
+1464 Rockport Street  Windsor Ontario,999000.00,4  4  Residential
+125 Talbot Street  Blenheim Ontario,549900.00,4  3  Residential
+20 Betty  Chatham Ontario,750000.00,4  3  Residential
+11341 Amalfi Drive  Windsor Ontario,849000.00,4  3  Residential
+658 Hall Street  Sarnia Ontario,499900.00,5  3  Residential

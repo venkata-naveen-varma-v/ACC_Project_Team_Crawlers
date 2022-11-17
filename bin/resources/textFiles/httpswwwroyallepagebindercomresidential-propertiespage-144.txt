@@ -1,0 +1,24 @@
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,1750.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,2360.00,1  1  Residential
+175 Churchill Park Road  Chatham Ontario,2420.00,2  1  Residential
+3959 Concession 3 Road  Amherstburg Ontario,599900.00,3  2  Residential
+151 Running Creek Drive  Wallaceburg Ontario,199900.00,2  1  Residential
+71 Willow Beach Road  Amherstburg Ontario,648000.00,4  2  Residential
+249 Cecile Avenue  Chatham Ontario,688000.00,4  2  Residential
+527 Lacroix Street  Chatham Ontario,429900.00,3  2  Residential
+93 Churchill Park Road  Chatham Ontario,525000.00,2  2  Residential
+97 Churchill Park Road  Chatham Ontario,525000.00,2  2  Residential
+89 Churchill Park Road  Chatham Ontario,475000.00,2  2  Residential
+85 Churchill Park Road  Chatham Ontario,475000.00,2  3  Residential
+132 Primrose Lane  Chatham Ontario,379000.00,3  2  Residential
+13 Mediterranean Avenue  Amherstburg Ontario,469913.00,3  2  Residential
+1336 Clearwater  Windsor Ontario,1850.00,2  1  Residential
+926 Janette  Windsor Ontario,199900.00,4  1  Residential
+157 Reed  Essex Ontario,649900.00,3  3  Residential
+Lot 23 Sutherland Crescent  St Clair Ontario,884900.00,4  3  Residential
+Lot 35 Sutherland Drive  St Clair Ontario,899900.00,4  3  Residential
+790 Concession Rd 2  Amherstburg Ontario,670000.00,4  2  Residential
+837 Hanna Street  Windsor Ontario,328888.00,4  1  Residential
