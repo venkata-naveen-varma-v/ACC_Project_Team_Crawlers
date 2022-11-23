@@ -1,0 +1,24 @@
+325 King  Amherstburg Ontario,679900.00,3  2  Residential
+1145 Highland  Windsor Ontario,389000.00,2  1  Residential
+493 Wellington Avenue  Windsor Ontario,1300.00,2  1  Residential
+118 Sheldon Avenue  Chatham Ontario,350000.00,4  2  Residential
+138 Patteson Avenue  Chatham Ontario,1800.00,2  1  Residential
+135 Grassland Grove  Chatham Ontario,615900.00,2  2  Residential
+1321 Cardinal Crescent  Tecumseh Ontario,398900.00,3  2  Residential
+157 Whelan  Amherstburg Ontario,995000.00,5  4  Residential
+572 Lily Mac Boulevard  Windsor Ontario,799900.00,2  2  Residential
+6726 Rose-Ville Garden  Windsor Ontario,299999.00,3  2  Residential
+23 Churchill Park Road  Chatham Ontario,699000.00,4  4  Residential
+3660 Shinglecreek Court  Windsor Ontario,3200.00,5  2  Residential
+177 Owenwood Drive  Kingsville Ontario,449900.00,4  2  Residential
+2645 Pillette Road  Windsor Ontario,699900.00,5  3  Residential
+1178-1180 Pierre  Windsor Ontario,499900.00,4  2  Residential
+864 Jos Janisse Avenue  Windsor Ontario,339000.00,4  2  Residential
+138 Patteson Avenue  Chatham Ontario,1800.00,2  1  Residential
+7095 Disputed Road  Lasalle Ontario,1449900.00,4  4  Residential
+1049 Lakeshore Park Road  Lakeshore Ontario,999900.00,4  3  Residential
+1375 Wellington Avenue  Windsor Ontario,325000.00,4  2  Residential
+11289 Timber Bay Crescent  Windsor Ontario,2600.00,3  2  Residential
+3549 Ouellette  Windsor Ontario,949900.00,3  2  Residential
+8780 Concession Road 8  Amherstburg Ontario,2000.00,4  1  Residential
+14267 Riverside Drive  Tecumseh Ontario,699000.00,Vacant Land
