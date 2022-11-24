@@ -59,7 +59,7 @@ public class Wordranks {
 	public static void main(String args[])
 	{
 		Wordranks wc=new Wordranks();
-		wc.getPageRank("TORONTO");
+		wc.getPageRank("WINDSOR");
 	}
 
 }
