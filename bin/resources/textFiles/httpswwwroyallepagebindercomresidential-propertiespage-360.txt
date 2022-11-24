@@ -1,0 +1,24 @@
+357 Cameron Street  St Clair Ontario,399999.00,4  2  Residential
+1525 Moy  Windsor Ontario,1800.00,2  1  Residential
+33 Nancy Avenue  Leamington Ontario,399000.00,3  1  Residential
+1228 California  Windsor Ontario,349900.00,2  1  Residential
+1351 Rendezvous Drive  Windsor Ontario,649900.00,4  3  Residential
+609 Holburn Street  Windsor Ontario,1395000.00,5  4  Residential
+221 Catherine  Blenheim Ontario,2395.00,4  2  Residential
+655 Hildegarde  Windsor Ontario,329900.00,3  2  Residential
+1879-81 Ford  Windsor Ontario,349900.00,2  2  Residential
+3217 Linwood Place  Windsor Ontario,299000.00,4  2  Residential
+2141 Grove  Windsor Ontario,199900.00,3  1  Residential
+225 David Crescent  Essex Ontario,174900.00,2  1  Residential
+143 Elizabeth Street  Chatham Ontario,385000.00,4  2  Residential
+1267 Gladstone Avenue  Windsor Ontario,399000.00,4  2  Residential
+3278 Northway  Windsor Ontario,2500.00,4  2  Residential
+383 Mulberry Lane  Belle River Ontario,2400.00,3  2  Residential
+1558 Lincoln  Windsor Ontario,249900.00,3  1  Residential
+1547 County Road 22  Lakeshore Ontario,499900.00,3  2  Residential
+10260 Eastcourt  Windsor Ontario,2500.00,4  2  Residential
+10260 Eastcourt  Windsor Ontario,449900.00,4  2  Residential
+4205 Stagecoach  Windsor Ontario,429900.00,3  2  Residential
+1643 Partington  Windsor Ontario,1800.00,2  2  Residential
+39 Cherry Blossom  Chatham Ontario,749900.00,3  2  Residential
+328 Russell Woods  Lakeshore Ontario,967000.00,5  3  Residential
