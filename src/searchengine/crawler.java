@@ -2,7 +2,8 @@ package searchengine;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
-import org.jsoup.select.*;
+import org.jsoup.select.Elements;
+
 import java.io.*;
 import java.util.*;
 import java.util.regex.Pattern;
@@ -12,16 +13,24 @@ public class crawler {
 	static HashSet<String> uniqueLinks = new HashSet<String>(); 
 	
 	private static String pattern = ".*www.royallepagebinder.com/residential-properties/.*";
-	
+	private static int max_pages = 40;
 //	Get links from the url
 	public static void crawl(String url, int page_count)
 	{
-		System.out.println("Fetching all the URL's from website: "+url);
 		try {
-			String currentUrl;
-			for(int i=0;i<page_count;i++) {
-				currentUrl = url + "page-" + 24*i;
-				uniqueLinks.add(currentUrl);
+			if(!uniqueLinks.contains(url)) {
+				if(page_count>0) {
+					uniqueLinks.add(url);
+				}
+				page_count++;
+				if(page_count <= max_pages) {
+					Document document= Jsoup.connect(url).get();
+					Elements linkpage= document.select("a[href^=\"https://www.royallepagebinder.com/residential-properties/page\"]");
+					for(Element page: linkpage)
+					{
+						crawl(page.attr("abs:href"), page_count);
+					}
+				}
 			}
 		}
 		catch(Exception e)
@@ -59,8 +68,10 @@ public class crawler {
 	public static void main(String args[])
 	{
 		String url = "https://www.royallepagebinder.com/residential-properties/";
-//		System.out.println("\n URL search Pattern: "+ pattern);
-		crawl(url, 40);
+		crawl(url, 0);
+		for(String link: uniqueLinks) {
+			System.out.println(link);
+		}
 		download_html();
 	}
 
