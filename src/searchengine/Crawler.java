@@ -6,13 +6,13 @@ import org.jsoup.select.Elements;
 
 import java.io.*;
 import java.util.*;
-import java.util.regex.Pattern;
+//import java.util.regex.Pattern;
 
 
 public class Crawler {
 	static HashSet<String> uniqueLinks = new HashSet<String>(); 
 	
-	private static String pattern = ".*www.royallepagebinder.com/residential-properties/.*";
+//	private static String pattern = ".*www.royallepagebinder.com/residential-properties/.*";
 	private static int max_pages = 40;
 //	Get links from the url
 	public static void crawl(String url, int page_count)
