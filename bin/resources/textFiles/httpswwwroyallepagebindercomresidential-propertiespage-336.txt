@@ -1,0 +1,24 @@
+4906 Howard Avenue  Tecumseh Ontario,2200.00,4  2  Residential
+6043 Concession Rd 6  Amherstburg Ontario,2500.00,5  2  Residential
+401 Thompson  Amherstburg Ontario,2700.00,3  2  Residential
+1091 Copeland Avenue  Windsor Ontario,674900.00,2  2  Residential
+388 Evelyn  Belle River Ontario,729900.00,4  3  Residential
+217 Hudson Crescent  Wallaceburg Ontario,649900.00,4  4  Residential
+243 Meadowview Avenue  Amherstburg Ontario,849888.00,4  3  Residential
+129 Margaret Brown Court  Essex Ontario,599900.00,4  2  Residential
+1780 Pierre Avenue  Windsor Ontario,699900.00,5  3  Residential
+466 Talbot Street  Leamington Ontario,1399000.00,4  4  Residential
+1380 Gabrieau Street  Lasalle Ontario,929900.00,5  3  Residential
+346 Poplar  Lakeshore Ontario,649900.00,4  3  Residential
+597 Compton  Windsor Ontario,649000.00,4  2  Residential
+3084 Lloyd George Boulevard  Windsor Ontario,389900.00,3  1  Residential
+1258 Lakeview  Windsor Ontario,3400.00,4  3  Residential
+2759 Randolph Avenue  Windsor Ontario,2500.00,3  1  Residential
+6 Robin Crescent  Lakeshore Ontario,189900.00,3  1  Residential
+1389 Langlois Avenue  Windsor Ontario,1900.00,3  1  Residential
+30 Noble Court  Amherstburg Ontario,2700.00,3  2  Residential
+365 Letino Drive  Lakeshore Ontario,1149900.00,4  3  Residential
+1026 Wellington Street  Windsor Ontario,289000.00,3  1  Residential
+27 Jane Street  Ridgetown Ontario,549000.00,5  2  Residential
+561 St. Clair Street  Chatham Ontario,375000.00,3  1  Residential
+60 Pine Drive  Wallaceburg Ontario,599900.00,4  2  Residential

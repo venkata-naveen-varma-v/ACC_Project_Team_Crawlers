@@ -1,0 +1,24 @@
+496 County Rd 50  Harrow Ontario,799000.00,3  1  Residential
+40 Noble  Amherstburg Ontario,2600.00,3  2  Residential
+159 Maidstone Avenue  Essex Ontario,729900.00,3  2  Residential
+263 Texas Road  Amherstburg Ontario,849900.00,4  3  Residential
+1101 Comber Sideroad  Lakeshore Ontario,399900.00,3  1  Residential
+103 Balaclava  Amherstburg Ontario,499900.00,7  3  Residential
+50 Callams Bay Crescent  Amherstburg Ontario,2800.00,3  3  Residential
+1062 Lark Street  Lasalle Ontario,1249900.00,4  4  Residential
+1911 Longfellow Avenue  Windsor Ontario,445900.00,3  1  Residential
+923 Victoria  Windsor Ontario,569900.00,6  4  Residential
+22 Wilson Street  Wallaceburg Ontario,585000.00,4  3  Residential
+54 Ella Street  Tilbury Ontario,499900.00,2  2  Residential
+97 Higgins  Amherstburg Ontario,599900.00,5  2  Residential
+116 East Beach Road  Leamington Ontario,989000.00,4  2  Residential
+297 Kilrea  Belle River Ontario,549157.00,3  2  Residential
+746 St. Antoine  Windsor Ontario,325000.00,5  3  Residential
+2050 Charlene  Tecumseh Ontario,969900.00,5  3  Residential
+22220 Charing Cross Road  Chatham Ontario,299900.00,2  2  Residential
+9746 Walker Road  Mcgregor Ontario,1499000.00,5  5  Residential
+74 St. Michael Avenue  Chatham Ontario,369000.00,3  1  Residential
+1107 Walker Road  Windsor Ontario,549900.00,4  3  Residential
+392 Cypress Lane  Lakeshore Ontario,2800.00,5  3  Residential
+392 Cypress Lane  Lakeshore Ontario,849900.00,5  3  Residential
+9550 Meadowvale Line  Wallaceburg Ontario,550000.00,4  2  Residential
