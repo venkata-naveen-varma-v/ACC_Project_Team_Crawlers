@@ -1,7 +1,6 @@
 package searchengine;
 
 import java.io.*;
-import java.util.*;
 
 
 import org.jsoup.*;
