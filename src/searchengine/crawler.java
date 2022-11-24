@@ -9,7 +9,7 @@ import java.util.*;
 import java.util.regex.Pattern;
 
 
-public class crawler {
+public class Crawler {
 	static HashSet<String> uniqueLinks = new HashSet<String>(); 
 	
 	private static String pattern = ".*www.royallepagebinder.com/residential-properties/.*";
