@@ -1,0 +1,24 @@
+59 Sunnyside  Lasalle Ontario,374900.00,2  1  Residential
+1951 Everts Avenue  Windsor Ontario,3000.00,5  3  Residential
+571 Dalhousie Street  Amherstburg Ontario,799900.00,3  2  Residential
+21271 Klondyke  Wheatley Ontario,279000.00,Vacant Land
+1066 California  Windsor Ontario,649900.00,3  1  Residential
+141 Adelaide Street  Chatham Ontario,239900.00,1  1  Residential
+21275 Klondyke  Wheatley Ontario,279000.00,Vacant Land
+1150 Edward  Windsor Ontario,1099999.00,7  3  Residential
+130 Belle River Road  Cottam Ontario,874900.00,4  4  Residential
+1607 Howard  Windsor Ontario,2000.00,3  2  Residential
+1365 George  Windsor Ontario,199500.00,3  1  Residential
+1026 Wellington Street  Windsor Ontario,299000.00,3  1  Residential
+4274 Stagecoach  Windsor Ontario,514900.00,5  2  Residential
+1313 Bedell  Tecumseh Ontario,449900.00,5  2  Residential
+155 Lansdowne Avenue  Sarnia Ontario,419900.00,3  1  Residential
+3043 London Line  Plympton-Wyoming Ontario,689900.00,4  2  Residential
+23 Richard Street  Ridgetown Ontario,349900.00,5  3  Residential
+719 Faleria Street  Lakeshore Ontario,1800.00,1  1  Residential
+719 Faleria Street  Lakeshore Ontario,2350.00,3  2  Residential
+365 Piroli Crescent  Lakeshore Ontario,749999.00,5  2  Residential
+450 Dalhousie Street  Amherstburg Ontario,1799000.00,5  3  Residential
+66 Wiltshire Drive  Chatham Ontario,499000.00,4  3  Residential
+77 Gore Street  Amherstburg Ontario,679900.00,4  2  Residential
+10397 Menard Street  Windsor Ontario,949999.00,5  3  Residential

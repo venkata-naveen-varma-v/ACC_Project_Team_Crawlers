@@ -1,0 +1,24 @@
+779 Albert Street  Wallaceburg Ontario,279900.00,2  1  Residential
+52 Valley Road  Chatham Ontario,625000.00,3  3  Residential
+89 Duskridge Road  Chatham Ontario,549900.00,2  2  Residential
+80 Duskridge Road  Chatham Ontario,549900.00,2  2  Residential
+49 Baffin Way  Chatham Ontario,569900.00,3  2  Residential
+17 Baffin Way  Chatham Ontario,689900.00,4  3  Residential
+22220 Charing Cross Road  Chatham Ontario,174900.00,2  1  Residential
+3820 North Townline Road  Lasalle Ontario,679900.00,4  2  Residential
+289 Horizon Lane  Chatham Ontario,549900.00,2  2  Residential
+85 Duskridge Road  Chatham Ontario,549900.00,2  2  Residential
+4 Duskridge Road  Chatham Ontario,549900.00,2  2  Residential
+21 Baffin Way  Chatham Ontario,579900.00,2  2  Residential
+Lot 3 Eagle Street  Leamington Ontario,359900.00,Vacant Land
+Lot 31 Rafael Street  Tecumseh Ontario,360000.00,Vacant Land
+4006 Maple Leaf Crescent  Windsor Ontario,619900.00,4  2  Residential
+775 Lounsborough Street  Windsor Ontario,854788.00,6  3  Residential
+447 Bevel Line Road  Leamington Ontario,675000.00,Vacant Land
+2759 Randolph Avenue  Windsor Ontario,485000.00,3  1  Residential
+916 Felix Avenue  Windsor Ontario,349000.00,6  2  Residential
+241 Curry  Windsor Ontario,499900.00,7  2  Residential
+374 Rankin Avenue  Windsor Ontario,479900.00,5  2  Residential
+332 Victoria Avenue  Amherstburg Ontario,2295.00,2  2  Residential
+7862 Howard Avenue  Amherstburg Ontario,399900.00,2  2  Residential
+628 County Rd 8  Leamington Ontario,419900.00,3  1  Residential

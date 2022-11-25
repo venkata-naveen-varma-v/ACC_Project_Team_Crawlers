@@ -1,0 +1,24 @@
+60 Pine Drive  Wallaceburg Ontario,599900.00,4  2  Residential
+357 Cameron Street  St Clair Ontario,399999.00,4  2  Residential
+1525 Moy  Windsor Ontario,1800.00,2  1  Residential
+33 Nancy Avenue  Leamington Ontario,399000.00,3  1  Residential
+1228 California  Windsor Ontario,349900.00,2  1  Residential
+1351 Rendezvous Drive  Windsor Ontario,649900.00,4  3  Residential
+609 Holburn Street  Windsor Ontario,1395000.00,5  4  Residential
+655 Hildegarde  Windsor Ontario,399900.00,3  2  Residential
+225 David Crescent  Essex Ontario,174900.00,2  1  Residential
+143 Elizabeth Street  Chatham Ontario,385000.00,4  2  Residential
+383 Mulberry Lane  Belle River Ontario,2400.00,3  2  Residential
+10260 Eastcourt  Windsor Ontario,2500.00,4  2  Residential
+10260 Eastcourt  Windsor Ontario,429900.00,4  2  Residential
+4205 Stagecoach  Windsor Ontario,429900.00,3  2  Residential
+1643 Partington  Windsor Ontario,1800.00,2  2  Residential
+39 Cherry Blossom  Chatham Ontario,749900.00,3  2  Residential
+325 King  Amherstburg Ontario,679900.00,3  2  Residential
+1145 Highland  Windsor Ontario,379000.00,2  1  Residential
+493 Wellington Avenue  Windsor Ontario,1300.00,2  1  Residential
+118 Sheldon Avenue  Chatham Ontario,350000.00,4  2  Residential
+138 Patteson Avenue  Chatham Ontario,1800.00,2  1  Residential
+135 Grassland Grove  Chatham Ontario,615900.00,2  2  Residential
+1321 Cardinal Crescent  Tecumseh Ontario,398900.00,3  2  Residential
+157 Whelan  Amherstburg Ontario,995000.00,5  4  Residential

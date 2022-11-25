@@ -1,0 +1,24 @@
+119 Lacroix Street  Chatham Ontario,189900.00,3  2  Residential
+41 Regina Drive  Lakeshore Ontario,149900.00,2  1  Residential
+21204 Hodovick  Wheatley Ontario,599000.00,3  1  Residential
+375 Bridge  Windsor Ontario,399999.00,5  1  Residential
+2055 Hickory Lane  Kingsville Ontario,8900.00,5  6  Residential
+1580 Buckingham Drive  Windsor Ontario,288580.00,2  1  Residential
+9225 Short Malden  Lasalle Ontario,3399000.00,5  3  Residential
+13 Westmoreland Avenue  Leamington Ontario,199000.00,2  1  Residential
+3280 Settler Sideroad  Comber Ontario,625000.00,4  2  Residential
+3280 Woodland Avenue  Windsor Ontario,349900.00,4  1  Residential
+2493 Front  Lasalle Ontario,495000.00,3  1  Residential
+10041 County Rd 23  Essex Ontario,1699900.00,5  5  Residential
+24 Rickway  Leamington Ontario,399900.00,3  2  Residential
+858 Lefaive  Lighthouse Cove Ontario,799900.00,5  2  Residential
+6310 Main Street  Comber Ontario,549000.00,4  2  Residential
+401 Lenore Street  Belle River Ontario,629900.00,4  2  Residential
+1962 Longfellow  Windsor Ontario,1350.00,2  1  Residential
+1924 Manitoba  Windsor Ontario,2380.00,3  2  Residential
+2309 Forest  Windsor Ontario,269900.00,2  1  Residential
+398 Caserta Crescent  Lakeshore Ontario,2800.00,4  3  Residential
+1394 Front Road  Amherstburg Ontario,1175000.00,3  2  Residential
+505 Wellwood Court  Tecumseh Ontario,579505.00,3  2  Residential
+2515 Windermere Road  Windsor Ontario,399900.00,5  2  Residential
+258 Cotterie Park  Leamington Ontario,699900.00,3  2  Residential
