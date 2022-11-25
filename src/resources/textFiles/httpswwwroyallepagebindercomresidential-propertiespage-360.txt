@@ -1,0 +1,24 @@
+193 Delaware Avenue  Chatham Ontario,450000.00,3  2  Residential
+217 Creek Street  Wallaceburg Ontario,329000.00,3  3  Residential
+1696 Caille Avenue  Lakeshore Ontario,1950000.00,3  3  Residential
+1658 Langlois Avenue  Windsor Ontario,689000.00,9  3  Residential
+41 Fryer  Amherstburg Ontario,669000.00,3  2  Residential
+489 Gilbert Avenue  Lasalle Ontario,825000.00,3  2  Residential
+361 St. Charles  Lakeshore Ontario,399900.00,3  2  Residential
+868 Ellrose Avenue  Windsor Ontario,269000.00,4  2  Residential
+5215 Wyandotte Street  Windsor Ontario,469900.00,3  2  Residential
+851 Talbot Road  Maidstone Ontario,1299900.00,4  2  Residential
+994 Banwell Road  Windsor Ontario,699900.00,5  3  Residential
+382 Mulberry Lane  Lakeshore Ontario,4200.00,5  3  Residential
+382 Mulberry Lane  Lakeshore Ontario,959000.00,5  3  Residential
+144 Hanlan Street  Essex Ontario,679900.00,4  3  Residential
+1829 Drouillard Road  Windsor Ontario,569900.00,4  2  Residential
+385 Elm Street  Bothwell Ontario,349900.00,3  2  Residential
+90 Marlborough Street  Blenheim Ontario,369000.00,3  1  Residential
+41 Churchill Avenue  Leamington Ontario,529900.00,4  2  Residential
+294 Jefferson  Windsor Ontario,599900.00,4  3  Residential
+29808 Oakdale Road  Croton Ontario,420000.00,3  2  Residential
+34 Park Lane  Lambton Shores Ontario,589900.00,3  2  Residential
+117 Tissiman Avenue  Chatham Ontario,349000.00,4  2  Residential
+486 Wellington Street  Sarnia Ontario,324900.00,4  2  Residential
+18 Martin  Amherstburg Ontario,589900.00,4  3  Residential

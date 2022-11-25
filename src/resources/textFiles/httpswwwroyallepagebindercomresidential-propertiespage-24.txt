@@ -1,0 +1,24 @@
+1185 Langlois  Windsor Ontario,279900.00,3  3  Residential
+1215 Stanley  Windsor Ontario,699900.00,5  3  Residential
+214 St Clair Boulevard  St Clair Ontario,565000.00,3  3  Residential
+214 St Clair Boulevard  St Clair Ontario,575000.00,3  3  Residential
+40 Wellington  Essex Ontario,470000.00,2  1  Residential
+662 South Pacific  Windsor Ontario,599900.00,4  2  Residential
+2469 Partington  Windsor Ontario,1100000.00,6  3  Residential
+1115 Copeland  Windsor Ontario,3000.00,4  3  Residential
+31 Main Street  Wallaceburg Ontario,179900.00,3  1  Residential
+181 Diane Crescent  Lakeshore Ontario,799900.00,6  4  Residential
+200 Victory Street  Lasalle Ontario,474900.00,3  1  Residential
+3354 Candlewood  Windsor Ontario,539000.00,3  2  Residential
+2440 Todd Lane  Lasalle Ontario,399900.00,3  1  Residential
+3779 Byng  Windsor Ontario,549900.00,4  2  Residential
+600 Green Valley Drive  Tecumseh Ontario,779000.00,4  2  Residential
+347 John B Avenue  Windsor Ontario,329999.00,4  3  Residential
+66 William Street  Shrewsbury Ontario,799900.00,3  1  Residential
+117 Howard Road  Chatham Ontario,2200.00,3  2  Residential
+1109 Front Road  Amherstburg Ontario,575000.00,1  1  Residential
+263 Texas Road  Amherstburg Ontario,749900.00,4  3  Residential
+159 Ambassador Beach Road  Harrow Ontario,119900.00,1  1  Residential
+505 Baldoon Road  Chatham Ontario,439900.00,3  2  Residential
+577 Josephine  Windsor Ontario,299900.00,5  2  Residential
+366 Wentworth Crescent  Thunder Bay Ontario,199900.00,3  1  Residential

@@ -1,0 +1,24 @@
+265 Sandybrook Way  Kingsville Ontario,649900.00,3  3  Residential
+668 Old Tecumseh Road  Lakeshore Ontario,2079000.00,4  4  Residential
+420 Runstedler  Lasalle Ontario,2750.00,4  2  Residential
+70 Conservation Boulevard  Kingsville Ontario,909000.00,3  3  Residential
+5925 Kingsley Avenue  Lasalle Ontario,849900.00,5  3  Residential
+3805 St. Francis Crescent  Lasalle Ontario,2590000.00,4  4  Residential
+2997 Walker  Windsor Ontario,899900.00,2  2  Residential
+322 Jordan Lane  Lakeshore Ontario,1050000.00,2  2  Residential
+1951 Everts Avenue  Windsor Ontario,899000.00,5  3  Residential
+151 Martin Drive  Lakeshore Ontario,948900.00,4  4  Residential
+312 Pompano  Windsor Ontario,199900.00,2  1  Residential
+54 Dundee Drive  Chatham Ontario,1050000.00,4  4  Residential
+178 Janette  Windsor Ontario,749900.00,6  3  Residential
+3567 Howard  Windsor Ontario,2500.00,3  2  Residential
+14 Parkside  Mcgregor Ontario,239000.00,2  1  Residential
+1310 Gladstone  Windsor Ontario,1450.00,2  1  Residential
+147 Sturgeon Meadows  Leamington Ontario,499999.00,4  2  Residential
+132 Landing Pass  Chatham Ontario,749900.00,3  3  Residential
+4387 Guppy Court  Windsor Ontario,2300.00,3  1  Residential
+7405 Malden Road  Lasalle Ontario,524999.00,3  2  Residential
+1372 Monticello  Windsor Ontario,1279000.00,4  4  Residential
+42 Evening Drive  Chatham Ontario,749900.00,2  2  Residential
+609 Mersea Rd 12  Leamington Ontario,1699900.00,4  4  Residential
+150 Middle Street  St Clair Ontario,299000.00,2  1  Residential
