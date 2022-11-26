@@ -5,7 +5,6 @@ import org.jsoup.nodes.*;
 import org.jsoup.select.*;
 import java.io.*;
 import java.util.*;
-import java.util.regex.Pattern;
 
 
 public class Crawler {
@@ -28,10 +27,15 @@ public class Crawler {
 					String filePath = "src/resources/htmlFiles/";
 					// Using regular expression to format the url
 					String fileName = currentUrl.replaceAll("[^a-zA-Z0-9_-]", "") + ".html";
-					// Write the formatted data into a html file.
-					BufferedWriter out = new BufferedWriter(new FileWriter(filePath + fileName, true));
-			        out.write(url + " " + html);
-			        out.close();
+					File tmpFile = new File(filePath);
+					boolean fileExists = tmpFile.exists();
+					// Check if file exists or not
+					if(!fileExists) {
+						// Write the formatted data into a html file.
+						BufferedWriter out = new BufferedWriter(new FileWriter(filePath + fileName, true));
+				        out.write(url + " " + html);
+				        out.close();
+					}
 				}
 				page_count++;
 				// Using Jsoup library to scrape and parse HTML from a URL
