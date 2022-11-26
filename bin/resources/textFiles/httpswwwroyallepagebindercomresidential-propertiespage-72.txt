@@ -1,3 +1,15 @@
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
 74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
 6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
 42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
@@ -10,15 +22,339 @@
 207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
 881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
 1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
-13347 Magnavilla Line  Thamesville Ontario,649500.00,3  2  Residential
-1230 Labadie Road  Windsor Ontario,349900.00,2  1  Residential
-2373 Lakeshore Rd 223  Lakeshore Ontario,1299000.00,4  5  Residential
-3217 Linwood Place  Windsor Ontario,299000.00,5  2  Residential
-200 Emma Street  Chatham Ontario,1600.00,1  1  Residential
-1906 Westview Park Boulevar…  Lasalle Ontario,599900.00,4  2  Residential
-333 Rankin  Windsor Ontario,1200.00,1  1  Residential
-1700 Front Road  Lasalle Ontario,2150.00,1  1  Residential
-3155 Fazio  Windsor Ontario,899900.00,5  4  Residential
-1622 Albert  Windsor Ontario,1800.00,2  1  Residential
-1240 Foxhill Court  Windsor Ontario,209000.00,3  1  Residential
-13 Canary Crescent  Wallaceburg Ontario,399900.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential
+1039 Imperial  Windsor Ontario,1500.00,1  1  Residential
+386 Louis  Windsor Ontario,1250.00,2  1  Residential
+1935 County Rd 31  Lakeshore Ontario,449999.00,5  2  Residential
+3568 Caribou Crescent  Windsor Ontario,499900.00,3  2  Residential
+6599 Thornberry  Windsor Ontario,189900.00,2  1  Residential
+420 Confederation Street  Sarnia Ontario,1850.00,2  1  Residential
+7146 Riverview Line  Chatham Ontario,885000.00,4  3  Residential
+420 Confederation Street  Sarnia Ontario,1900.00,2  1  Residential
+154 Elizabeth Street  Chatham Ontario,385000.00,3  2  Residential
+7038 Quaker Road  Warwick-Watford Ontario,649900.00,3  1  Residential
+55 Callams Bay Road  Amherstburg Ontario,844900.00,4  3  Residential
+57 Callams Bay Road  Amherstburg Ontario,834900.00,4  3  Residential
+74 Mill Street  Leamington Ontario,319000.00,2  1  Residential
+6887 Tecumseh  Lakeshore Ontario,329900.00,4  2  Residential
+42 Noble Court  Amherstburg Ontario,2500.00,3  2  Residential
+9370 Aire Court  Windsor Ontario,349900.00,4  2  Residential
+1062 Dougall  Windsor Ontario,299000.00,3  2  Residential
+8885 Howard  Lasalle Ontario,499900.00,4  2  Residential
+25 Frances Drive  Lambton Shores Ontario,599900.00,4  3  Residential
+506 Harris  Amherstburg Ontario,759900.00,3  2  Residential
+47 O'Neil Street  Chatham Ontario,349000.00,2  2  Residential
+207 Erie Street  Merlin Ontario,400000.00,3  2  Residential
+881 Morand Street  Windsor Ontario,2400.00,3  3  Residential
+1906 Glendale  Windsor Ontario,499999.00,3  2  Residential

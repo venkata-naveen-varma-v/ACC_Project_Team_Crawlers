@@ -1,3 +1,14 @@
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
 1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
 971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
 1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
@@ -11,14 +22,339 @@
 27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
 440 Dormar  Windsor Ontario,540000.00,3  2  Residential
 V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
-969 Nova Street  Windsor Ontario,819999.00,3  3  Residential
-29 Hilton Court  Amherstburg Ontario,798000.00,3  2  Residential
-430 Mcewan  Windsor Ontario,1950.00,3  1  Residential
-60 Parkside Drive  Mcgregor Ontario,224900.00,3  2  Residential
-605 Woodridge  Tecumseh Ontario,3500.00,6  2  Residential
-26 Laurentia Drive  Tilbury Ontario,649000.00,5  2  Residential
-1619 George  Windsor Ontario,399900.00,4  2  Residential
-36 Victoria  Leamington Ontario,299900.00,4  2  Residential
-178 County Road 50  Colchester Ontario,2390000.00,5  5  Residential
-12685 Kimberly  Tecumseh Ontario,589900.00,4  2  Residential
-20 Bonita  Windsor Ontario,69900.00,2  1  Residential
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land
+5700 Blackwell Sideroad  Sarnia Ontario,222200.00,2  1  Residential
+45 Dundee Drive  Chatham Ontario,789900.00,3  2  Residential
+1209 Bainbridge Avenue  Kingsville Ontario,550000.00,4  2  Residential
+528 Gillard Street  Wallaceburg Ontario,289900.00,2  2  Residential
+929 Lemonwood Crescent  Windsor Ontario,2800.00,4  2  Residential
+3050 Regis Avenue  Windsor Ontario,1700.00,2  2  Residential
+3050 Regis Avenue  Windsor Ontario,739900.00,3  3  Residential
+203 Woodycrest  Kingsville Ontario,2300.00,2  2  Residential
+11408 County Rd 46  Comber Ontario,179900.00,2  1  Residential
+1031 Mersea Rd 1  Leamington Ontario,1199000.00,3  2  Residential
+3118 Erindale  Windsor Ontario,459900.00,4  3  Residential
+1809 Buckingham  Windsor Ontario,349900.00,3  1  Residential
+971 Grantham Court  Windsor Ontario,2200.00,4  3  Residential
+1226 Kamloops  Windsor Ontario,2500.00,4  2  Residential
+243 Warwick Street  Warwick-Watford Ontario,399900.00,3  2  Residential
+181 Campbell Street  Sarnia Ontario,289900.00,4  1  Residential
+1708 Foster Avenue  Windsor Ontario,549000.00,3  2  Residential
+106 Lambert Street  Amherstburg Ontario,2400.00,3  2  Residential
+23 St. Patrick  Chatham Ontario,249900.00,2  1  Residential
+196 Grandview  Kingsville Ontario,1249900.00,4  4  Residential
+692 South Pacific Avenue  Windsor Ontario,549000.00,4  2  Residential
+27 Emily  Kingsville Ontario,1599900.00,4  3  Residential
+440 Dormar  Windsor Ontario,540000.00,3  2  Residential
+V/l Byng Road  Windsor Ontario,189900.00,Vacant Land

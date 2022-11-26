@@ -1,13 +1,15 @@
 package searchengine;
 
-// import required libraries
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.*;
-import org.jsoup.select.Elements;
+import org.jsoup.select.*;
 import java.io.*;
 import java.util.*;
+import java.util.regex.Pattern;
+
 
 public class Crawler {
+
 	static HashSet<String> uniqueLinks = new HashSet<String>(); 
 	private static int max_pages = 50;
 	
@@ -49,12 +51,12 @@ public class Crawler {
 	}
 	
 	
-	public static void main(String args[])
-	{
-		String url = "https://www.royallepagebinder.com/residential-properties/";
-		crawl(url, 0);
-		for(String link: uniqueLinks) {
-			System.out.println(link);
-		}
-	}
+//	public static void main(String args[])
+//	{
+//		String url = "https://www.royallepagebinder.com/residential-properties/";
+//		crawl(url, 0);
+//		for(String link: uniqueLinks) {
+//			System.out.println(link);
+//		}
+//	}
 }
