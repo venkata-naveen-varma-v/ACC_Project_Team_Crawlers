@@ -2,8 +2,6 @@ package searchengine;
 
 import java.io.*;
 import java.util.*;
-
-
 import org.jsoup.*;
 import org.jsoup.nodes.*;
 import org.jsoup.select.*;
@@ -40,13 +38,17 @@ public class Convert_to_text {
 						price = price.replace(",", "");
 						type = type.replace("|", "");
 						String print_value = address+","+price+","+type;
-						// Write the formatted data into a text file.
 						String fileName = filename.replace(".html", ".txt");
-						BufferedWriter out = new BufferedWriter(new FileWriter(dest_path + fileName, true));
-				        out.write(print_value + "\n");
-				        out.close();
+						File tmpFile = new File(dest_path);
+						boolean fileExists = tmpFile.exists();
+						// Check if file exists or not
+						if(!fileExists) {
+							// Write the formatted data into a text file.
+							BufferedWriter out = new BufferedWriter(new FileWriter(dest_path + fileName, true));
+					        out.write(print_value + "\n");
+					        out.close();
+						}
 					}
-//					System.out.println("page:" + filename + " data extracted and stored in .txt!\n");
 				}
 				System.out.println("\nAll files converted to .txt!!\n");
 			}
