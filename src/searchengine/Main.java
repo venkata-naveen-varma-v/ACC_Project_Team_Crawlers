@@ -10,6 +10,7 @@ public class Main {
 
 	public static void main(String args[]) throws java.lang.Exception {
 		SearchFrequency searchFrequency = new SearchFrequency();
+		BestDeal b =new BestDeal();
 		
 		String url = "https://www.royallepagebinder.com/residential-properties/";
 
@@ -26,6 +27,7 @@ public class Main {
 		Convert_to_text.convert_html_to_text();
 
 		Wordranks wc = new Wordranks();
+		b.addToPriorityQueue();
 
 		// System.in is a standard input stream
 		Scanner sc = new Scanner(System.in);
@@ -36,6 +38,11 @@ public class Main {
 
 		wc.getPageRank(city);
 
+		System.out.print("\n*******************************\n\n");
+		System.out.print("Enter number of bedrooms: ");
+		String bedroomNo = sc.nextLine();
+		System.out.println(b.bestDeal(Integer.valueOf(bedroomNo)));
+
 		System.out.println("Do you want to search again ? Press Y or N");
 		String input = sc.nextLine();
 
@@ -45,6 +52,10 @@ public class Main {
 				city = sc.nextLine();
 				searchFrequency.updateSearchHistory(city);
 				wc.getPageRank(city);
+				System.out.print("\n*******************************\n\n");
+				System.out.print("Enter number of bedrooms: ");
+				bedroomNo = sc.nextLine();
+				System.out.println(b.bestDeal(Integer.valueOf(bedroomNo)));
 				System.out.println("Do you want to search again ? Press Y or N");
 				input = sc.nextLine();
 			}
