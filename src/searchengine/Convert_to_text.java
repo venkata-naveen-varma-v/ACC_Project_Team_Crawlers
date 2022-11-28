@@ -39,7 +39,7 @@ public class Convert_to_text {
 						type = type.replace("|", "");
 						String print_value = address+","+price+","+type;
 						String fileName = filename.replace(".html", ".txt");
-						File tmpFile = new File(dest_path);
+						File tmpFile = new File(dest_path+fileName);
 						boolean fileExists = tmpFile.exists();
 						// Check if file exists or not
 						if(!fileExists) {
