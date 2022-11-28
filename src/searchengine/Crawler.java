@@ -32,7 +32,6 @@ public class Crawler {
 					// Check if file exists or not
 					if(!fileExists) {
 						// Write the formatted data into a html file.
-						System.out.println("------Found");
 						BufferedWriter out = new BufferedWriter(new FileWriter(filePath + fileName, true));
 				        out.write(url + " " + html);
 				        out.close();
