@@ -21,7 +21,6 @@ public class BestDeal {
 		List<String> buildingDetails = new ArrayList<>();
 		
 		
-		
 		// read text files
 		for (String filename : Text_files_list) {
 			try {
