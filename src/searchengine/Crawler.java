@@ -27,7 +27,7 @@ public class Crawler {
 					String filePath = "src/resources/htmlFiles/";
 					// Using regular expression to format the url
 					String fileName = currentUrl.replaceAll("[^a-zA-Z0-9_-]", "") + ".html";
-					File tmpFile = new File(filePath);
+					File tmpFile = new File(filePath+fileName);
 					boolean fileExists = tmpFile.exists();
 					// Check if file exists or not
 					if(!fileExists) {
@@ -55,12 +55,12 @@ public class Crawler {
 	}
 	
 	
-//	public static void main(String args[])
-//	{
-//		String url = "https://www.royallepagebinder.com/residential-properties/";
-//		crawl(url, 0);
-//		for(String link: uniqueLinks) {
-//			System.out.println(link);
-//		}
-//	}
+// 	public static void main(String args[])
+// 	{
+// 		String url = "https://www.royallepagebinder.com/residential-properties/";
+// 		crawl(url, 0);
+// 		for(String link: uniqueLinks) {
+// 			System.out.println(link);
+// 		}
+// 	}
 }
