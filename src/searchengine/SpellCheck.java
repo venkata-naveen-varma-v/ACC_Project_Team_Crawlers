@@ -40,7 +40,7 @@ public class SpellCheck {
 	 * @param word {search word}
 	 * @return word correction list
 	 */
-	public static List<Entry<String, Integer>> correction(String word) {
+	public static ArrayList<String> correction(String word) {
 		ArrayList<String> wordCorrection = new ArrayList<String>();
 		ArrayList<String> wordCorrection1 = new ArrayList<String>();
 		
@@ -80,7 +80,7 @@ public class SpellCheck {
 		} catch (Exception e) {
 			System.out.println(e);
 		}
-		return list;
+		return wordCorrection;
 	}
 
 	/**
