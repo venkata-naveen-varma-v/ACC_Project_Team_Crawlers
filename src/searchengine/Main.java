@@ -2,6 +2,7 @@ package searchengine;
 
 import searchengine.Crawler;
 
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -17,14 +18,31 @@ public class Main {
 
 		ArrayList<String> wordCorrection = new ArrayList<String>();
 
-		String url = "https://www.royallepagebinder.com/residential-properties/";
-
-		System.out.println("Fetching all the Html Pages from " + url);
-		Crawler.crawl(url, 0);
-
-		System.out.println("\nProcess completed for fetching Html pages!!");
-		Convert_to_text.convert_html_to_text();
-
+		/*
+		 * Crawling
+		 * */
+		// checking if web-page data is crawled or not
+		String source_path = "src/resources/textFiles/";
+		File dir = new File(source_path);
+		String files_list[] = dir.list();
+		int crawl = 0;
+		// if web-page data is crawled
+		if(files_list.length > 0) {
+			System.out.println("Do you want to crawl the data from the website 'Y' or 'N' : ");
+			Scanner read = new Scanner(System.in);
+			String continue_or_not = read.nextLine();
+			if(continue_or_not.equalsIgnoreCase("y")) {
+				crawl = 1;
+			}
+		}
+		// if web-page data is need to be crawled
+		if(crawl == 1) {
+			String url = "https://www.royallepagebinder.com/residential-properties/";
+			System.out.println("Fetching all the Html Pages from " + url);
+			Crawler.crawl(url, 0);
+			System.out.println("\nProcess completed for fetching Html pages!!");
+			Convert_to_text.convert_html_to_text();
+		}
 		
 		b.addToPriorityQueue();
 		
