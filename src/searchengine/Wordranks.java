@@ -19,11 +19,21 @@ import searchengine.TopListing;
 
 
 public class Wordranks {
-	Map<String, Integer> ranks= new HashMap<String, Integer>();
+	Map<String, Integer> ranks= new HashMap<String, Integer>();   //hashmap to store the rank of word and page
+	
+	/**
+	 * Get the rank of the pages and the frequency of words based on the search key passed
+	 */
 	public Map<String,Integer> getPageRank(String searchKey) {
-		searchKey=searchKey.toLowerCase();
+		searchKey=searchKey.toLowerCase();      	//converting the input to lower cases
+		
 		File directory=new File("src/resources/textFiles");
-		File filesList[] = directory.listFiles();
+		
+		File filesList[] = directory.listFiles();   //get the list of files from the directory
+	
+		/**
+		 *  From the list of all files read each file convert to the lower case.
+		 */
 		for(File file : filesList) {
 			String line = "";
 			int c=1;
@@ -39,18 +49,21 @@ public class Wordranks {
 			while(scanFile.hasNext()) {	
 				line=line+" "+ scanFile.nextLine();
 			}
-			line=line.toLowerCase();
-			line=line.trim();
+			line=line.toLowerCase();		//convert the content to the lower case after read from file
+			line=line.trim();			//remove the spaces
 			int startIndex=0;
 			
+			/**
+			 *  For each file use the boyer moore algorithm for searching the word count.
+			 */
 			for(int index=0;index<=line.length();index=index+startIndex+searchKey.length()) {
 				BoyerMoore bm= new BoyerMoore(searchKey);
 				startIndex=bm.search(line.substring(index));
 			
 				if(startIndex+index<line.length())
 				{
-					ranks.put(file.getName(), c);
-					c= ranks.get(file.getName())+1;
+					ranks.put(file.getName(), c);	//store the web page name in a hash map
+					c= ranks.get(file.getName())+1;	//update the frequency of the word occurrence
 				}
 			}
 			scanFile.close();
