@@ -3,9 +3,7 @@ package searchengine;
 import searchengine.Crawler;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-import java.util.Map.Entry;
 
 import searchengine.Convert_to_text;
 
@@ -17,7 +15,7 @@ public class Main {
 		SpellCheck spellCheck = new SpellCheck();
 		Wordranks wc = new Wordranks();
 
-		List<Entry<String, Integer>> wordCorrection = null;
+		ArrayList<String> wordCorrection = new ArrayList<String>();
 
 		String url = "https://www.royallepagebinder.com/residential-properties/";
 
