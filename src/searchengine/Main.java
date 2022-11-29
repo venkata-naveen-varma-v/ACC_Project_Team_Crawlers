@@ -25,10 +25,11 @@ public class Main {
 		String source_path = "src/resources/textFiles/";
 		File dir = new File(source_path);
 		String files_list[] = dir.list();
-		int crawl = 0;
+		int crawl = 1;
 		// if web-page data is crawled
 		if(files_list.length > 0) {
-			System.out.println("Do you want to crawl the data from the website 'Y' or 'N' : ");
+			crawl = 0;
+			System.out.println("Crawled text files are present, Do you want to crawl again to get the latest data 'Y' or 'N' ?: ");
 			Scanner read = new Scanner(System.in);
 			String continue_or_not = read.nextLine();
 			if(continue_or_not.equalsIgnoreCase("y")) {
