@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class SearchFrequency {
+public class SearchHistory {
 	String filePath = "src/resources/searchHistory/searchHistory.txt";
 
 	/**
@@ -56,7 +56,6 @@ public class SearchFrequency {
 			}
 
 			writer.close();
-			System.out.println("Successfully added " + word + " to the search history");
 
 		} catch (IOException e) {
 			System.out.println("An error occurred.");

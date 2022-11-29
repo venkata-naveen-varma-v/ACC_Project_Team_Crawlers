@@ -3,7 +3,13 @@ package searchengine;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
 import java.util.Scanner;
+import java.util.stream.Stream;
 
 public class SpellCheck {
 
@@ -34,8 +40,14 @@ public class SpellCheck {
 	 * @param word {search word}
 	 * @return word correction list
 	 */
-	public static ArrayList<String> correction(String word) {
+	public static List<Entry<String, Integer>> correction(String word) {
 		ArrayList<String> wordCorrection = new ArrayList<String>();
+		ArrayList<String> wordCorrection1 = new ArrayList<String>();
+		
+
+		List<Entry<String, Integer>> list = null;
+		HashMap<String, Integer> distance = new HashMap<String, Integer>();
+		
 		try {
 			ArrayList<String> ar = new ArrayList<String>();
 			int i = 0;
@@ -51,15 +63,24 @@ public class SpellCheck {
 					//Add as alternate word if the distance is 1
 					if (d == 1) {
 						wordCorrection.add(ar.get(i));
+					}else if(d == 2){
+						wordCorrection1.add(ar.get(i));
 					}
+					distance.put(ar.get(i),d);
+
+					Stream<Map.Entry<String, Integer>> sorted = distance.entrySet().stream()
+							.sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()));
+					
+					list = sorted.toList();
+
 				}
+				wordCorrection.addAll(wordCorrection1);
 
 			}
 		} catch (Exception e) {
 			System.out.println(e);
 		}
-
-		return wordCorrection;
+		return list;
 	}
 
 	/**
