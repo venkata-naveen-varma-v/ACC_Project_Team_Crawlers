@@ -45,8 +45,6 @@ public class Main {
 			Convert_to_text.convert_html_to_text();
 		}
 		
-//		b.addToPriorityQueue();
-		
 		Scanner sc = new Scanner(System.in);
 		
 		String input = "y";
@@ -54,15 +52,25 @@ public class Main {
 		String bedroomNo;
 
 		while (input.equalsIgnoreCase("y")) {
-			System.out.println("Recent Search History\n");
+			
+			/**
+			 * get recent searches
+			 */
+			System.out.println("Recent Search History");
 			searchHistory.display();
 			System.out.println("\n");
 			
 			System.out.print("Enter a city name: ");
 			city = sc.nextLine();
 
+			/**
+			 * check spelling of search word and give suggestions if spelling is incorrect. 
+			 */
 			wordCorrection = spellCheck.correction(city);
 
+			/**
+			 * Ask user to enter correct spelling if the search word spelling is incorrect.
+			 */
 			while (wordCorrection.size() > 0) {
 				System.out.println("Are you sure the spelling is correct. Please select a word from the given list");
 				System.out.println(wordCorrection);
@@ -75,12 +83,21 @@ public class Main {
 			}
 
 
+			/**
+			 * updating search word to searchHistory.txt file
+			 */
 			searchHistory.updateSearchHistory(city);
 			b.clearQueue();
+			
 			wc.getPageRank(city);
+			
 			System.out.print("\n*******************************\n\n");
 			System.out.print("Enter number of bedrooms: ");
 			bedroomNo = sc.nextLine();
+			
+			/**
+			 * print the details of building with least price based on the number of bedrooms
+			 */
 			System.out.println(b.bestDeal((int)Math.round(Float.valueOf(bedroomNo))));
 			System.out.println("Do you want to search again ? Press Y or N");
 			input = sc.nextLine();
