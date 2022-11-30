@@ -42,7 +42,6 @@ public class SpellCheck {
 	 */
 	public static ArrayList<String> correction(String word) {
 		ArrayList<String> wordCorrection = new ArrayList<String>();
-		ArrayList<String> wordCorrection1 = new ArrayList<String>();
 		
 
 		List<Entry<String, Integer>> list = null;
@@ -60,22 +59,11 @@ public class SpellCheck {
 					//Find the difference in distance between the words
 					d = Sequences.editDistance(word, ar.get(i)); 
 				
-					//Add as alternate word if the distance is 1
-					if (d == 1) {
+					//Add as alternate word if the distance is 1 or 2
+					if (d == 1 || d == 2) {
 						wordCorrection.add(ar.get(i));
-					}else if(d == 2){
-						wordCorrection1.add(ar.get(i));
 					}
-					distance.put(ar.get(i),d);
-
-					Stream<Map.Entry<String, Integer>> sorted = distance.entrySet().stream()
-							.sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()));
-					
-					list = sorted.toList();
-
 				}
-				wordCorrection.addAll(wordCorrection1);
-
 			}
 		} catch (Exception e) {
 			System.out.println(e);
