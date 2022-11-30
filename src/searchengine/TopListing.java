@@ -17,6 +17,8 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+/* Class to get the top 5 pages by word rank and give the top listings for the Search Location*/
+
 public class TopListing {
 	
 	static HashMap<String, ArrayList<String>> ListingMap = new HashMap<>();
@@ -32,8 +34,6 @@ public class TopListing {
 		
 		for(String filename: Text_files_list) {
 			
-//			System.out.println("\nIn page:" + filename + "\n");
-			
 			if(!filename.equalsIgnoreCase(".DS_Store") && searchPages.containsKey(filename))
 			{
 			
@@ -42,13 +42,11 @@ public class TopListing {
 			      Scanner myReader = new Scanner(myObj);  
 			      while (myReader.hasNextLine()) {
 			        String data = myReader.nextLine();
-//			        System.out.println(data);
 			        if(!data.isEmpty())
 			        {
 			        
 			        	String[] Listings= data.split("\n");
 			        	int len= Listings.length;
-//			        	System.out.println(Listings);
 			        	String ListingItem="";
 			        	String[] item= new String[len];
 			        	String Address="";
@@ -64,6 +62,8 @@ public class TopListing {
 			        	
 			        	String[] LastStringArray= new String[3];
 			        	
+			        	/* Iterating through the text files and formating data and storing in 
+			        	 * Hashmap and Arraylist */
 			        	
 			        	for(int i=0; i < len ; i++)
 			        	{
@@ -73,11 +73,12 @@ public class TopListing {
 			        		Price=item[1];
 			        		LastString=item[2];
 			        		
+			        		/* Conditions to filter out data */
+			        		
 			        		if(!LastString.equalsIgnoreCase("Vacant Land") && !LastString.equalsIgnoreCase("Residential"))
 			        		{
 			        			LastStringArray=LastString.split("  ");
 			        			int len1 = LastStringArray.length;
-//			        			System.out.println(len1);
 			        			
 			        			if(len1==3)
 			        			{
@@ -115,28 +116,20 @@ public class TopListing {
 									// TODO Auto-generated catch block
 									e.printStackTrace();
 								}
-			        			
-			        		
+			        				
 			        	}
-			      
-			        	
-			        	
+			      	
 			        }
 			       
-			      }
-//			      System.out.println(ListingMap);
-			      
+			      }      
 			      
 			      myReader.close();
 			    } catch (FileNotFoundException e) {
 			      System.out.println("An error occurred.");
 			      e.printStackTrace();
 			    } 
-			
-			
-		}
-			
-			
+				
+		}		
 			
 		}
 		

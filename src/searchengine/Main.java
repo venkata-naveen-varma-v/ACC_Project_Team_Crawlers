@@ -17,7 +17,9 @@ public class Main {
 		Wordranks wc = new Wordranks();
 
 		ArrayList<String> wordCorrection = new ArrayList<String>();
-
+		
+		System.out.println("Welcome to Team Crawler's :- \nReal Estate Web Search Engine");
+		
 		/*
 		 * Crawling
 		 * */
@@ -26,11 +28,13 @@ public class Main {
 		File dir = new File(source_path);
 		String files_list[] = dir.list();
 		int crawl = 1;
+		
 		// if web-page data is crawled
 		if(files_list.length > 0) {
 			crawl = 0;
-			System.out.println("Crawled text files are present, Do you want to crawl again to get the latest data 'Y' or 'N' ?: ");
+			System.out.println("\nCrawled text files are present, Do you want to crawl again to get the latest data 'Y' or 'N' ?: ");
 			Scanner read = new Scanner(System.in);
+			
 			String continue_or_not = read.nextLine();
 			if(continue_or_not.equalsIgnoreCase("y")) {
 				crawl = 1;
@@ -87,6 +91,7 @@ public class Main {
 			 * updating search word to searchHistory.txt file
 			 */
 			searchHistory.updateSearchHistory(city);
+			
 			b.clearQueue();
 			
 			wc.getPageRank(city);

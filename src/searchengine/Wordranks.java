@@ -64,16 +64,13 @@ public class Wordranks {
 		    
 		}
 		
-//		 System.out.println("\n Values before sorting : ");
-//	     
-//		 display(ranks);
-		 
+		/* Invoking Page Sorting Class based on word ranking */ 
 		 
 		List<Entry<String, Integer>> listTop5=null;
 	
 		if(ranks.size()!=0)
 		{
-		listTop5=PageSorting.SortMap(ranks);
+		listTop5=PageSorting.SortMap(ranks); // Getting the list of Top 5 Ranked pages
 		Map<String, Integer> Top5= new HashMap<String, Integer>();
 		
 		
@@ -84,17 +81,17 @@ public class Wordranks {
 			 
 		 }
 
-		
+		/* Listing all the searches for the city in the top 5 pages */
 		TopListing.Listing(Top5,searchKey);
 		
-//		BestDeal.setTop5Pages(Top5);
+		
+		/* Pushing search key to Priority Queue for searching based on search 
+		 * location and no. of Bedrooms  */
 		
 		BestDeal bestDeal=new BestDeal();
 		bestDeal.addToPriorityQueue(searchKey);
 		
 		
-		
-//		 Map<String, Integer> Top5= new HashMap<String, Integer>();
 		}
 		 
 		else if(ranks.size()==0) {
@@ -109,19 +106,5 @@ public class Wordranks {
 	       }
 	   }
 	  
-	  
-	
-	
-//	public static void main(String args[]) throws java.lang.Exception
-//	{
-//		Wordranks wc=new Wordranks();
-//		
-//		//System.in is a standard input stream  
-//		Scanner sc= new Scanner(System.in); 
-//		System.out.print("Enter a city name: ");  
-//		String city= sc.nextLine();     
-//		
-//		wc.getPageRank(city);
-//	}
 
 }

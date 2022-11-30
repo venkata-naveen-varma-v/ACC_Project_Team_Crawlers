@@ -16,10 +16,13 @@ public class PageSorting {
 
 			System.out.println("\nPages after sorting based on no. of occurences : ");
 
+			/* Using Stream API of Java 8 for sorting Hash map values.
+			 * In java 8, Map.Entry class has static method comparingByValue() 
+			 * to help in sorting by values. This method returns a Comparator 
+			 * that compares Map.Entry in natural order on values.*/
+			
 			Stream<Map.Entry<String, Integer>> sorted = webpages.entrySet().stream()
 					.sorted(Map.Entry.comparingByValue(Comparator.reverseOrder()));
-
-//		 sorted.forEach(System.out::println);
 
 			System.out.println("Top 5 pages with the best results are : -");
 
@@ -28,12 +31,11 @@ public class PageSorting {
 			for (int k = 0; k < 5; k++) {
 				System.out.println(
 						"Page Name : " + list.get(k).getKey() + "\nNo. of Occurences : " + list.get(k).getValue());
-//			 Top5.put(list.get(k).getKey(), list.get(k).getValue());
 
 			}
 
 		}
 
-		return list;
+		return list; // Returning the sorted list of the top 5 pages with highest word ranking
 	}
 }
