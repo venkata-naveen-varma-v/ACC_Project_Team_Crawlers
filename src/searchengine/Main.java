@@ -45,7 +45,7 @@ public class Main {
 			Convert_to_text.convert_html_to_text();
 		}
 		
-		b.addToPriorityQueue();
+//		b.addToPriorityQueue();
 		
 		Scanner sc = new Scanner(System.in);
 		
@@ -76,6 +76,7 @@ public class Main {
 
 
 			searchHistory.updateSearchHistory(city);
+			b.clearQueue();
 			wc.getPageRank(city);
 			System.out.print("\n*******************************\n\n");
 			System.out.print("Enter number of bedrooms: ");
@@ -83,6 +84,7 @@ public class Main {
 			System.out.println(b.bestDeal((int)Math.round(Float.valueOf(bedroomNo))));
 			System.out.println("Do you want to search again ? Press Y or N");
 			input = sc.nextLine();
+			
 		}
 
 		System.out.println("\nThanks. The Demo ends here. Have a good day.");
