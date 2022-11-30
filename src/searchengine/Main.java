@@ -98,7 +98,7 @@ public class Main {
 			/**
 			 * print the details of building with least price based on the number of bedrooms
 			 */
-			System.out.println(b.bestDeal((int)Math.round(Float.valueOf(bedroomNo))));
+			System.out.println(b.bestDeal((int)Math.floor(Float.valueOf(bedroomNo))));
 			System.out.println("Do you want to search again ? Press Y or N");
 			input = sc.nextLine();
 			
