@@ -15,6 +15,7 @@ public class Main {
 		BestDeal b = new BestDeal();
 		SpellCheck spellCheck = new SpellCheck();
 		Wordranks wc = new Wordranks();
+		WordScrap ws = new WordScrap();
 
 		ArrayList<String> wordCorrection = new ArrayList<String>();
 		
@@ -47,6 +48,7 @@ public class Main {
 			Crawler.crawl(url, 0);
 			System.out.println("\nProcess completed for fetching Html pages!!");
 			Convert_to_text.convert_html_to_text();
+			ws.scrap(args);
 		}
 		
 		Scanner sc = new Scanner(System.in);

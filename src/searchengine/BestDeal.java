@@ -73,6 +73,7 @@ public class BestDeal {
 	/**
 	 * 
 	 * @param bedroomNo {number of bedrooms}
+	 * @return
 	 * @return String {details of best deal}
 	 */
 	public static String bestDeal(int bedroomNo) {
@@ -81,12 +82,14 @@ public class BestDeal {
 			
 
 			if (bedroomNo == building.bedrooms) {
+//				buildingPriorityQueue.clear();
 				return "Address: " + building.address + ",\nPrice: $" + building.price + ",\nNumber of bedrooms: "
 						+ building.bedrooms + ",\nNumber of washrooms: " + building.washrooms;
 			
 			}
 
 		}
+//		buildingPriorityQueue.clear();
 		return "Not able to find a residence with given number of bedrooms";
 	}
 

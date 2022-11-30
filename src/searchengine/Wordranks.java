@@ -73,13 +73,21 @@ public class Wordranks {
 		listTop5=PageSorting.SortMap(ranks); // Getting the list of Top 5 Ranked pages
 		Map<String, Integer> Top5= new HashMap<String, Integer>();
 		
-		
-		for(int g=0;g<5;g++)
-		 {
-		
-			 Top5.put(listTop5.get(g).getKey(), listTop5.get(g).getValue());
-			 
-		 }
+		if(listTop5.size()>=5) {
+			for(int g=0;g<5;g++)
+			 {
+			
+				 Top5.put(listTop5.get(g).getKey(), listTop5.get(g).getValue());
+				 
+			 }
+		}else {
+			for(int g=0;g<listTop5.size();g++)
+			 {
+			
+				 Top5.put(listTop5.get(g).getKey(), listTop5.get(g).getValue());
+				 
+			 }
+		}
 
 		/* Listing all the searches for the city in the top 5 pages */
 		TopListing.Listing(Top5,searchKey);

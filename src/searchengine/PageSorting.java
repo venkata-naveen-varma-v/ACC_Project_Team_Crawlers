@@ -28,10 +28,18 @@ public class PageSorting {
 
 			list = sorted.toList();
 
-			for (int k = 0; k < 5; k++) {
-				System.out.println(
-						"Page Name : " + list.get(k).getKey() + "\nNo. of Occurences : " + list.get(k).getValue());
-
+			if(list.size() >= 5) {
+				for (int k = 0; k < 5; k++) {
+					System.out.println(
+							"Page Name : " + list.get(k).getKey() + "\nNo. of Occurences : " + list.get(k).getValue());
+	
+				}
+			}else {
+				for (int k = 0; k < list.size(); k++) {
+					System.out.println(
+							"Page Name : " + list.get(k).getKey() + "\nNo. of Occurences : " + list.get(k).getValue());
+	
+				}
 			}
 
 		}

@@ -60,7 +60,7 @@ public class SpellCheck {
 					d = Sequences.editDistance(word, ar.get(i)); 
 				
 					//Add as alternate word if the distance is 1 or 2
-					if (d == 1 || d == 2) {
+					if (d == 1 || d==2) {
 						wordCorrection.add(ar.get(i));
 					}
 				}
